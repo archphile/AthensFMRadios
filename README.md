@@ -9,6 +9,6 @@ In order to use them with Archphile, you will need to do the following:
 
 	get https://github.com/archphile/AthensFMRadios/archive/master.zip
 	unzip master.zip
-	mv AthensFMRadios-master /var/lib/mpd/music/webradio-athens-fm
-	chown -R mpd:audio /var/lib/mpd/music/webradio-athens-fm/
+	mv AthensFMRadios-master /var/lib/mpd/music/webradio-athens
+	chown -R mpd:audio /var/lib/mpd/music/webradio-athens/
 	rm master.zip
