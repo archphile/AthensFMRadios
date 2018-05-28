@@ -22,4 +22,4 @@ In order to use these radios with Archphile, you will need to use the included s
 	chmod +x arf.sh
 	./arf.sh
 
-
+PS. These files were created for "real" people that want to listen to the radio and not for "audiophiles" (who gives a fuck about them anyway?)! 
