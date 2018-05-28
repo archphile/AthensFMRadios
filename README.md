@@ -16,7 +16,7 @@ For 1 and 2 feel free to open issues, fork and send back etc..
 For 3, please go away immediately or I will use my dark unholy skills to destroy you.. Seriously!
 
 
-In order to use them with Archphile, you will need to use the included script (arf.sh):
+In order to use these radios with Archphile, you will need to use the included script (arf.sh):
 
 	wget https://raw.githubusercontent.com/archphile/AthensFMRadios/master/archphile-script/arf.sh
 	chmod +x arf.sh
