@@ -11,3 +11,4 @@ In order to use them with Archphile, you will need to do the following:
 	unzip master.zip
 	mv AthensFMRadios-master /var/lib/mpd/music/webradio-athens-fm
 	chown -R mpd:audio /var/lib/mpd/music/webradio-athens-fm/
+	rm master.zip
