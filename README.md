@@ -23,3 +23,14 @@ In order to use these radios with Archphile, you will need to use the included s
 	./arf.sh
 
 PS. These files were **created for real people** that want to listen to the radio and not for "audiophiles" (who gives a fuck about them anyway?)! 
+
+
+**NOTE:** 0.99.73 is missing unzip which is required by arf script. In order to install unzip, edit mirrorlist:
+
+	nano /etc/pacman.d/mirrorlist
+	
+enable the first server line, save and then install unzip command:
+
+	pacman -Sy unzip
+	
+Now you are ready to follow the initial procedure.
