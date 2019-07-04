@@ -8,7 +8,7 @@ https://gist.github.com/dennmtr/ac14e66adca47e5f7d60
 Note: If you didn't find a specific radio this means:
 
 1. I forgot it
-2. I did not find a usable http stream (ex. SKAI 100.3)
+2. I did not find a usable http stream
 3. It's a religious radio station
 
 For 1 and 2 and in cases where an existing pls is not functional, feel free to open issues, fork and send back etc.. 
