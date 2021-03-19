@@ -11,6 +11,8 @@ In order to use these radios with Archphile, you will need to use the included s
 	./arf.sh
 	
 
-To download all these files, use the following link:
+To download a zip that includes all these files, use the following link:
 
 [https://github.com/archphile/AthensFMRadios/archive/master.zip](https://github.com/archphile/AthensFMRadios/archive/master.zip)
+
+Now, you can unpack this file and use the m3u files with the program (ex. VLC) of your preference.
