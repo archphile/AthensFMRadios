@@ -1,6 +1,6 @@
 [playlist]
 numberofentries=1
-File1=http://78.129.224.11:18553/;94fm94fm.mp3
+File1=https://cc.vmakerhost.com/proxy/epikoinonia94fm
 Title1=Epikoinonia 94 FM
 Length1=-1
 Version=2
