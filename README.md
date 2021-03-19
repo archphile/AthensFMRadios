@@ -9,3 +9,8 @@ In order to use these radios with Archphile, you will need to use the included s
 	wget https://raw.githubusercontent.com/archphile/AthensFMRadios/master/archphile-script/arf.sh
 	chmod +x arf.sh
 	./arf.sh
+	
+
+To download all these files, use the following link:
+
+[https://github.com/archphile/AthensFMRadios/archive/master.zip](https://github.com/archphile/AthensFMRadios/archive/master.zip)
